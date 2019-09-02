@@ -22,17 +22,17 @@ Before you begin, it is important to have all the tools at hand. you will need:
 *Download Force encryption disabler: Download link
 
 
-##ENABLE USB DEBUGGING 
+## ENABLE USB DEBUGGING 
 
 1. Go to Settings> About phone
 2. Find the MIUI Version and press 8 times on it:
-
 3. Return to the previous screen. Go to Additional Settings
 
 You will see that a line has appeared: “Developers Options”
+
 4. Press and check “USB Debugging” &  “OEM unlocking”
 
-##Install TWRP Recovery on your Xiaomi Pocophone F1
+## Install TWRP Recovery on your Xiaomi Pocophone F1
 
 1- Open the folder where ADB and Fastboot are located on your computer and Copy the recovery.img file on the ADB folder
 
@@ -49,33 +49,31 @@ You will see that a line has appeared: “Developers Options”
 
 5- You have successfully Flashed TWRP in your Xiaomi Pocophone F1.
 
-##Root Xiaomi Pocophone F1
+## Root Xiaomi Pocophone F1
 
-1 – Copy the Magisk.zip & Force encryption disabler.zip files on your internal storage or SD card.
-
-2- Restart your Xiaomi Pocophone F1 in Fastboot mode:
+1. Copy the Magisk.zip & Force encryption disabler.zip files on your internal storage or SD card
+2. Restart your Xiaomi Pocophone F1 in Fastboot mode:
 
     press & hold  the “Volume Down + Power button” at the same time for about 5 seconds
 
-3- Install and flash Force encryption disabler:
+3. Install and flash Force encryption disabler:
 
     Choose “Install” then choose “Force encryption disabler“
     Press the return key
     Just press “Reboot” to restart the phone in recovery mode again
 
-4- Install and flash Magisk:
+4. Install and flash Magisk:
 
     Choose “Install” then choose “Magisk.zip“
     Press the return key
     Just press “Reboot” to restart the phone in normal mode.
 
-4 – Now Download & install the apk file “MagiskManager.apk”
+5. Now Download & install the apk file “MagiskManager.apk”
+6. Restart your device.
 
-5- Restart your device.
+Now you have successfully rooted your Xiaomi Pocophone F1.
 
-6- Now you have successfully rooted your Xiaomi Pocophone F1.
-
-##Check Your Root of Xiaomi Pocophone F1
+## Check Your Root of Xiaomi Pocophone F1
 
 Download Root Checker app that allows you to check in seconds if your device is rooted or not.
 
