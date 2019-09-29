@@ -79,3 +79,11 @@ Download Root Checker app that allows you to check in seconds if your device is 
 
 Source : https://zfirmware.com/how-to-install-twrp-and-root-xiaomi-pocophone-f1/
 
+
+# Virtualisation ubuntu under windows 10
+
+1. Download you ISO file of UBUNTU OS.
+2. Under windows 10 , Run this command "MMC" to open  Hyper-V virtualisation platform of windows 10.
+3. In action zone, click new/virtual desktop.
+4. Fill each stage on the wizard.
+5. After all run the virtual machine and use UBUNTU under windows.
